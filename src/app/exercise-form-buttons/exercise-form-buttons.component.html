@@ -1,0 +1,23 @@
+<p>exercise-form-buttons works!</p>
+
+<form>
+    <div>
+        <button mat-button id="generateExerciseButton" type="button" (click)="generateExercise()">Generate
+            Exercise</button>
+        <button mat-button id="revealExerciseButton" type="button" (click)="revealAnswer()">Reveal Answer</button>
+        <button mat-button id="clearExerciseButton" type="button" (click)="resetExercises()">Clear</button>
+        <p>{{ testText }}</p>
+        <p [hidden]="!isAnswerTextVisible">{{ answerText }}</p>
+    </div>
+    <div>
+        <mat-radio-group id="characterSetGroup">
+            <!-- <mat-radio-button id="characterSetHiragana" (click)="setCharacterSet('hiragana')">Hiragana
+            </mat-radio-button>
+            <mat-radio-button id="characterSetKatakana" (click)="setCharacterSet('katakana')">Katakana
+            </mat-radio-button> -->
+            <mat-radio-button *ngFor="let set of characterSets" [value]="set" (click)="setCharacterSet(set)">{{ set }}
+            </mat-radio-button>
+        </mat-radio-group>
+        <p>{{ characterSetSelected }}</p>
+    </div>
+</form>

@@ -1,0 +1,644 @@
+[
+    {
+        "id": "katakana-001",
+        "type": "katakana",
+        "english": "a",
+        "japanese": "ア"
+    },
+    {
+        "id": "katakana-002",
+        "type": "katakana",
+        "english": "i",
+        "japanese": "イ"
+    },
+    {
+        "id": "katakana-003",
+        "type": "katakana",
+        "english": "u",
+        "japanese": "ウ"
+    },
+    {
+        "id": "katakana-004",
+        "type": "katakana",
+        "english": "e",
+        "japanese": "エ"
+    },
+    {
+        "id": "katakana-005",
+        "type": "katakana",
+        "english": "o",
+        "japanese": "オ"
+    },
+    {
+        "id": "katakana-006",
+        "type": "katakana",
+        "english": "ka",
+        "japanese": "カ"
+    },
+    {
+        "id": "katakana-007",
+        "type": "katakana",
+        "english": "ki",
+        "japanese": "キ"
+    },
+    {
+        "id": "katakana-008",
+        "type": "katakana",
+        "english": "ku",
+        "japanese": "ク"
+    },
+    {
+        "id": "katakana-009",
+        "type": "katakana",
+        "english": "ke",
+        "japanese": "ケ"
+    },
+    {
+        "id": "katakana-010",
+        "type": "katakana",
+        "english": "ko",
+        "japanese": "コ"
+    },
+    {
+        "id": "katakana-011",
+        "type": "katakana",
+        "english": "ga",
+        "japanese": "ガ"
+    },
+    {
+        "id": "katakana-012",
+        "type": "katakana",
+        "english": "gi",
+        "japanese": "ギ"
+    },
+    {
+        "id": "katakana-013",
+        "type": "katakana",
+        "english": "gu",
+        "japanese": "グ"
+    },
+    {
+        "id": "katakana-014",
+        "type": "katakana",
+        "english": "ge",
+        "japanese": "ゲ"
+    },
+    {
+        "id": "katakana-015",
+        "type": "katakana",
+        "english": "go",
+        "japanese": "ゴ"
+    },
+    {
+        "id": "katakana-016",
+        "type": "katakana",
+        "english": "sa",
+        "japanese": "サ"
+    },
+    {
+        "id": "katakana-017",
+        "type": "katakana",
+        "english": "shi",
+        "japanese": "シ"
+    },
+    {
+        "id": "katakana-018",
+        "type": "katakana",
+        "english": "su",
+        "japanese": "ス"
+    },
+    {
+        "id": "katakana-019",
+        "type": "katakana",
+        "english": "se",
+        "japanese": "セ"
+    },
+    {
+        "id": "katakana-020",
+        "type": "katakana",
+        "english": "so",
+        "japanese": "ソ"
+    },
+    {
+        "id": "katakana-021",
+        "type": "katakana",
+        "english": "za",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-022",
+        "type": "katakana",
+        "english": "ji",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-023",
+        "type": "katakana",
+        "english": "zu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-024",
+        "type": "katakana",
+        "english": "ze",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-025",
+        "type": "katakana",
+        "english": "zo",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-026",
+        "type": "katakana",
+        "english": "ta",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-027",
+        "type": "katakana",
+        "english": "chi",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-028",
+        "type": "katakana",
+        "english": "tsu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-029",
+        "type": "katakana",
+        "english": "te",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-030",
+        "type": "katakana",
+        "english": "to",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-031",
+        "type": "katakana",
+        "english": "da",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-032",
+        "type": "katakana",
+        "english": "ji",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-033",
+        "type": "katakana",
+        "english": "zu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-034",
+        "type": "katakana",
+        "english": "de",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-035",
+        "type": "katakana",
+        "english": "do",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-036",
+        "type": "katakana",
+        "english": "na",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-037",
+        "type": "katakana",
+        "english": "ni",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-038",
+        "type": "katakana",
+        "english": "nu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-039",
+        "type": "katakana",
+        "english": "ne",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-040",
+        "type": "katakana",
+        "english": "no",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-041",
+        "type": "katakana",
+        "english": "ha",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-042",
+        "type": "katakana",
+        "english": "hi",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-043",
+        "type": "katakana",
+        "english": "fu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-044",
+        "type": "katakana",
+        "english": "he",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-045",
+        "type": "katakana",
+        "english": "ho",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-046",
+        "type": "katakana",
+        "english": "ba",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-047",
+        "type": "katakana",
+        "english": "bi",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-048",
+        "type": "katakana",
+        "english": "bu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-049",
+        "type": "katakana",
+        "english": "be",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-050",
+        "type": "katakana",
+        "english": "bo",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-051",
+        "type": "katakana",
+        "english": "pa",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-052",
+        "type": "katakana",
+        "english": "pi",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-053",
+        "type": "katakana",
+        "english": "pu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-054",
+        "type": "katakana",
+        "english": "pe",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-055",
+        "type": "katakana",
+        "english": "po",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-056",
+        "type": "katakana",
+        "english": "ma",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-057",
+        "type": "katakana",
+        "english": "mi",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-058",
+        "type": "katakana",
+        "english": "mu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-059",
+        "type": "katakana",
+        "english": "me",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-060",
+        "type": "katakana",
+        "english": "mo",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-061",
+        "type": "katakana",
+        "english": "ya",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-062",
+        "type": "katakana",
+        "english": "yu",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-063",
+        "type": "katakana",
+        "english": "yo",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-064",
+        "type": "katakana",
+        "english": "ra",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-065",
+        "type": "katakana",
+        "english": "ri",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-066",
+        "type": "katakana",
+        "english": "ru",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-067",
+        "type": "katakana",
+        "english": "re",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-068",
+        "type": "katakana",
+        "english": "ro",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-069",
+        "type": "katakana",
+        "english": "wa",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-070",
+        "type": "katakana",
+        "english": "wo",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-071",
+        "type": "katakana",
+        "english": "n",
+        "japanese": ""
+    },
+    {
+        "id": "katakana-072",
+        "type": "katakana",
+        "english": "kya",
+        "japanese": "き"
+    },
+    {
+        "id": "katakana-073",
+        "type": "katakana",
+        "english": "kyu",
+        "japanese": "き"
+    },
+    {
+        "id": "katakana-074",
+        "type": "katakana",
+        "english": "kyo",
+        "japanese": "き"
+    },
+    {
+        "id": "katakana-075",
+        "type": "katakana",
+        "english": "sha",
+        "japanese": "し"
+    },
+    {
+        "id": "katakana-076",
+        "type": "katakana",
+        "english": "shu",
+        "japanese": "し"
+    },
+    {
+        "id": "katakana-077",
+        "type": "katakana",
+        "english": "sho",
+        "japanese": "し"
+    },
+    {
+        "id": "katakana-078",
+        "type": "katakana",
+        "english": "cha",
+        "japanese": "ち"
+    },
+    {
+        "id": "katakana-079",
+        "type": "katakana",
+        "english": "chu",
+        "japanese": "ち"
+    },
+    {
+        "id": "katakana-080",
+        "type": "katakana",
+        "english": "cho",
+        "japanese": "ち"
+    },
+    {
+        "id": "katakana-081",
+        "type": "katakana",
+        "english": "nya",
+        "japanese": "に"
+    },
+    {
+        "id": "katakana-082",
+        "type": "katakana",
+        "english": "nyu",
+        "japanese": "に"
+    },
+    {
+        "id": "katakana-083",
+        "type": "katakana",
+        "english": "nyo",
+        "japanese": "に"
+    },
+    {
+        "id": "katakana-084",
+        "type": "katakana",
+        "english": "hya",
+        "japanese": "ひ"
+    },
+    {
+        "id": "katakana-085",
+        "type": "katakana",
+        "english": "hyu",
+        "japanese": "ひ"
+    },
+    {
+        "id": "katakana-086",
+        "type": "katakana",
+        "english": "hyo",
+        "japanese": "ひ"
+    },
+    {
+        "id": "katakana-087",
+        "type": "katakana",
+        "english": "mya",
+        "japanese": "み"
+    },
+    {
+        "id": "katakana-088",
+        "type": "katakana",
+        "english": "myu",
+        "japanese": "み"
+    },
+    {
+        "id": "katakana-089",
+        "type": "katakana",
+        "english": "myo",
+        "japanese": "み"
+    },
+    {
+        "id": "katakana-090",
+        "type": "katakana",
+        "english": "rya",
+        "japanese": "り"
+    },
+    {
+        "id": "katakana-091",
+        "type": "katakana",
+        "english": "ryu",
+        "japanese": "り"
+    },
+    {
+        "id": "katakana-092",
+        "type": "katakana",
+        "english": "ryo",
+        "japanese": "り"
+    },
+    {
+        "id": "katakana-093",
+        "type": "katakana",
+        "english": "gya",
+        "japanese": "ぎ"
+    },
+    {
+        "id": "katakana-094",
+        "type": "katakana",
+        "english": "gyu",
+        "japanese": "ぎ"
+    },
+    {
+        "id": "katakana-095",
+        "type": "katakana",
+        "english": "gyo",
+        "japanese": "ぎ"
+    },
+    {
+        "id": "katakana-096",
+        "type": "katakana",
+        "english": "ja",
+        "japanese": "じ"
+    },
+    {
+        "id": "katakana-097",
+        "type": "katakana",
+        "english": "ju",
+        "japanese": "じ"
+    },
+    {
+        "id": "katakana-098",
+        "type": "katakana",
+        "english": "jo",
+        "japanese": "じ"
+    },
+    {
+        "id": "katakana-099",
+        "type": "katakana",
+        "english": "ja",
+        "japanese": "ぢ"
+    },
+    {
+        "id": "katakana-100",
+        "type": "katakana",
+        "english": "ju",
+        "japanese": "ぢ"
+    },
+    {
+        "id": "katakana-101",
+        "type": "katakana",
+        "english": "jo",
+        "japanese": "ぢ"
+    },
+    {
+        "id": "katakana-102",
+        "type": "katakana",
+        "english": "bya",
+        "japanese": "び"
+    },
+    {
+        "id": "katakana-103",
+        "type": "katakana",
+        "english": "byu",
+        "japanese": "び"
+    },
+    {
+        "id": "katakana-104",
+        "type": "katakana",
+        "english": "byo",
+        "japanese": "び"
+    },
+    {
+        "id": "katakana-0105",
+        "type": "katakana",
+        "english": "pya",
+        "japanese": "ぴ"
+    },
+    {
+        "id": "katakana-106",
+        "type": "katakana",
+        "english": "pyu",
+        "japanese": "ぴ"
+    },
+    {
+        "id": "katakana-107",
+        "type": "katakana",
+        "english": "pyo",
+        "japanese": "ぴ"
+    }
+]
