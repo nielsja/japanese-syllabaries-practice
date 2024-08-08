@@ -1,0 +1,644 @@
+[
+    {
+        "id": "hiragana-001",
+        "type": "hiragana",
+        "english": "a",
+        "japanese": "あ"
+    },
+    {
+        "id": "hiragana-002",
+        "type": "hiragana",
+        "english": "i",
+        "japanese": "い"
+    },
+    {
+        "id": "hiragana-003",
+        "type": "hiragana",
+        "english": "u",
+        "japanese": "う"
+    },
+    {
+        "id": "hiragana-004",
+        "type": "hiragana",
+        "english": "e",
+        "japanese": "え"
+    },
+    {
+        "id": "hiragana-005",
+        "type": "hiragana",
+        "english": "o",
+        "japanese": "お"
+    },
+    {
+        "id": "hiragana-006",
+        "type": "hiragana",
+        "english": "ka",
+        "japanese": "か"
+    },
+    {
+        "id": "hiragana-007",
+        "type": "hiragana",
+        "english": "ki",
+        "japanese": "き"
+    },
+    {
+        "id": "hiragana-008",
+        "type": "hiragana",
+        "english": "ku",
+        "japanese": "く"
+    },
+    {
+        "id": "hiragana-009",
+        "type": "hiragana",
+        "english": "ke",
+        "japanese": "け"
+    },
+    {
+        "id": "hiragana-010",
+        "type": "hiragana",
+        "english": "ko",
+        "japanese": "こ"
+    },
+    {
+        "id": "hiragana-011",
+        "type": "hiragana",
+        "english": "ga",
+        "japanese": "が"
+    },
+    {
+        "id": "hiragana-012",
+        "type": "hiragana",
+        "english": "gi",
+        "japanese": "ぎ"
+    },
+    {
+        "id": "hiragana-013",
+        "type": "hiragana",
+        "english": "gu",
+        "japanese": "ぐ"
+    },
+    {
+        "id": "hiragana-014",
+        "type": "hiragana",
+        "english": "ge",
+        "japanese": "げ"
+    },
+    {
+        "id": "hiragana-015",
+        "type": "hiragana",
+        "english": "go",
+        "japanese": "ご"
+    },
+    {
+        "id": "hiragana-016",
+        "type": "hiragana",
+        "english": "sa",
+        "japanese": "さ"
+    },
+    {
+        "id": "hiragana-017",
+        "type": "hiragana",
+        "english": "shi",
+        "japanese": "し"
+    },
+    {
+        "id": "hiragana-018",
+        "type": "hiragana",
+        "english": "su",
+        "japanese": "す"
+    },
+    {
+        "id": "hiragana-019",
+        "type": "hiragana",
+        "english": "se",
+        "japanese": "せ"
+    },
+    {
+        "id": "hiragana-020",
+        "type": "hiragana",
+        "english": "so",
+        "japanese": "そ"
+    },
+    {
+        "id": "hiragana-021",
+        "type": "hiragana",
+        "english": "za",
+        "japanese": "ざ"
+    },
+    {
+        "id": "hiragana-022",
+        "type": "hiragana",
+        "english": "ji",
+        "japanese": "じ"
+    },
+    {
+        "id": "hiragana-023",
+        "type": "hiragana",
+        "english": "zu",
+        "japanese": "ず"
+    },
+    {
+        "id": "hiragana-024",
+        "type": "hiragana",
+        "english": "ze",
+        "japanese": "ぜ"
+    },
+    {
+        "id": "hiragana-025",
+        "type": "hiragana",
+        "english": "zo",
+        "japanese": "ぞ"
+    },
+    {
+        "id": "hiragana-026",
+        "type": "hiragana",
+        "english": "ta",
+        "japanese": "た"
+    },
+    {
+        "id": "hiragana-027",
+        "type": "hiragana",
+        "english": "chi",
+        "japanese": "ち"
+    },
+    {
+        "id": "hiragana-028",
+        "type": "hiragana",
+        "english": "tsu",
+        "japanese": "つ"
+    },
+    {
+        "id": "hiragana-029",
+        "type": "hiragana",
+        "english": "te",
+        "japanese": "て"
+    },
+    {
+        "id": "hiragana-030",
+        "type": "hiragana",
+        "english": "to",
+        "japanese": "と"
+    },
+    {
+        "id": "hiragana-031",
+        "type": "hiragana",
+        "english": "da",
+        "japanese": "だ"
+    },
+    {
+        "id": "hiragana-032",
+        "type": "hiragana",
+        "english": "ji",
+        "japanese": "ぢ"
+    },
+    {
+        "id": "hiragana-033",
+        "type": "hiragana",
+        "english": "zu",
+        "japanese": "づ"
+    },
+    {
+        "id": "hiragana-034",
+        "type": "hiragana",
+        "english": "de",
+        "japanese": "で"
+    },
+    {
+        "id": "hiragana-035",
+        "type": "hiragana",
+        "english": "do",
+        "japanese": "ど"
+    },
+    {
+        "id": "hiragana-036",
+        "type": "hiragana",
+        "english": "na",
+        "japanese": "な"
+    },
+    {
+        "id": "hiragana-037",
+        "type": "hiragana",
+        "english": "ni",
+        "japanese": "に"
+    },
+    {
+        "id": "hiragana-038",
+        "type": "hiragana",
+        "english": "nu",
+        "japanese": "ぬ"
+    },
+    {
+        "id": "hiragana-039",
+        "type": "hiragana",
+        "english": "ne",
+        "japanese": "ね"
+    },
+    {
+        "id": "hiragana-040",
+        "type": "hiragana",
+        "english": "no",
+        "japanese": "の"
+    },
+    {
+        "id": "hiragana-041",
+        "type": "hiragana",
+        "english": "ha",
+        "japanese": "は"
+    },
+    {
+        "id": "hiragana-042",
+        "type": "hiragana",
+        "english": "hi",
+        "japanese": "ひ"
+    },
+    {
+        "id": "hiragana-043",
+        "type": "hiragana",
+        "english": "fu",
+        "japanese": "ふ"
+    },
+    {
+        "id": "hiragana-044",
+        "type": "hiragana",
+        "english": "he",
+        "japanese": "へ"
+    },
+    {
+        "id": "hiragana-045",
+        "type": "hiragana",
+        "english": "ho",
+        "japanese": "ほ"
+    },
+    {
+        "id": "hiragana-046",
+        "type": "hiragana",
+        "english": "ba",
+        "japanese": "ば"
+    },
+    {
+        "id": "hiragana-047",
+        "type": "hiragana",
+        "english": "bi",
+        "japanese": "び"
+    },
+    {
+        "id": "hiragana-048",
+        "type": "hiragana",
+        "english": "bu",
+        "japanese": "ぶ"
+    },
+    {
+        "id": "hiragana-049",
+        "type": "hiragana",
+        "english": "be",
+        "japanese": "べ"
+    },
+    {
+        "id": "hiragana-050",
+        "type": "hiragana",
+        "english": "bo",
+        "japanese": "ぼ"
+    },
+    {
+        "id": "hiragana-051",
+        "type": "hiragana",
+        "english": "pa",
+        "japanese": "ぱ"
+    },
+    {
+        "id": "hiragana-052",
+        "type": "hiragana",
+        "english": "pi",
+        "japanese": "ぴ"
+    },
+    {
+        "id": "hiragana-053",
+        "type": "hiragana",
+        "english": "pu",
+        "japanese": "ぷ"
+    },
+    {
+        "id": "hiragana-054",
+        "type": "hiragana",
+        "english": "pe",
+        "japanese": "ぺ"
+    },
+    {
+        "id": "hiragana-055",
+        "type": "hiragana",
+        "english": "po",
+        "japanese": "ぽ"
+    },
+    {
+        "id": "hiragana-056",
+        "type": "hiragana",
+        "english": "ma",
+        "japanese": "ま"
+    },
+    {
+        "id": "hiragana-057",
+        "type": "hiragana",
+        "english": "mi",
+        "japanese": "み"
+    },
+    {
+        "id": "hiragana-058",
+        "type": "hiragana",
+        "english": "mu",
+        "japanese": "む"
+    },
+    {
+        "id": "hiragana-059",
+        "type": "hiragana",
+        "english": "me",
+        "japanese": "め"
+    },
+    {
+        "id": "hiragana-060",
+        "type": "hiragana",
+        "english": "mo",
+        "japanese": "も"
+    },
+    {
+        "id": "hiragana-061",
+        "type": "hiragana",
+        "english": "ya",
+        "japanese": "や"
+    },
+    {
+        "id": "hiragana-062",
+        "type": "hiragana",
+        "english": "yu",
+        "japanese": "ゆ"
+    },
+    {
+        "id": "hiragana-063",
+        "type": "hiragana",
+        "english": "yo",
+        "japanese": "よ"
+    },
+    {
+        "id": "hiragana-064",
+        "type": "hiragana",
+        "english": "ra",
+        "japanese": "ら"
+    },
+    {
+        "id": "hiragana-065",
+        "type": "hiragana",
+        "english": "ri",
+        "japanese": "り"
+    },
+    {
+        "id": "hiragana-066",
+        "type": "hiragana",
+        "english": "ru",
+        "japanese": "る"
+    },
+    {
+        "id": "hiragana-067",
+        "type": "hiragana",
+        "english": "re",
+        "japanese": "れ"
+    },
+    {
+        "id": "hiragana-068",
+        "type": "hiragana",
+        "english": "ro",
+        "japanese": "ろ"
+    },
+    {
+        "id": "hiragana-069",
+        "type": "hiragana",
+        "english": "wa",
+        "japanese": "わ"
+    },
+    {
+        "id": "hiragana-070",
+        "type": "hiragana",
+        "english": "wo",
+        "japanese": "を"
+    },
+    {
+        "id": "hiragana-071",
+        "type": "hiragana",
+        "english": "n",
+        "japanese": "ん"
+    },
+    {
+        "id": "hiragana-072",
+        "type": "hiragana",
+        "english": "kya",
+        "japanese": "きゃ"
+    },
+    {
+        "id": "hiragana-073",
+        "type": "hiragana",
+        "english": "kyu",
+        "japanese": "きゅ"
+    },
+    {
+        "id": "hiragana-074",
+        "type": "hiragana",
+        "english": "kyo",
+        "japanese": "きょ"
+    },
+    {
+        "id": "hiragana-075",
+        "type": "hiragana",
+        "english": "sha",
+        "japanese": "しゃ"
+    },
+    {
+        "id": "hiragana-076",
+        "type": "hiragana",
+        "english": "shu",
+        "japanese": "しゅ"
+    },
+    {
+        "id": "hiragana-077",
+        "type": "hiragana",
+        "english": "sho",
+        "japanese": "しょ"
+    },
+    {
+        "id": "hiragana-078",
+        "type": "hiragana",
+        "english": "cha",
+        "japanese": "ちゃ"
+    },
+    {
+        "id": "hiragana-079",
+        "type": "hiragana",
+        "english": "chu",
+        "japanese": "ちゅ"
+    },
+    {
+        "id": "hiragana-080",
+        "type": "hiragana",
+        "english": "cho",
+        "japanese": "ちょ"
+    },
+    {
+        "id": "hiragana-081",
+        "type": "hiragana",
+        "english": "nya",
+        "japanese": "にゃ"
+    },
+    {
+        "id": "hiragana-082",
+        "type": "hiragana",
+        "english": "nyu",
+        "japanese": "にゅ"
+    },
+    {
+        "id": "hiragana-083",
+        "type": "hiragana",
+        "english": "nyo",
+        "japanese": "にょ"
+    },
+    {
+        "id": "hiragana-084",
+        "type": "hiragana",
+        "english": "hya",
+        "japanese": "ひゃ"
+    },
+    {
+        "id": "hiragana-085",
+        "type": "hiragana",
+        "english": "hyu",
+        "japanese": "ひゅ"
+    },
+    {
+        "id": "hiragana-086",
+        "type": "hiragana",
+        "english": "hyo",
+        "japanese": "ひょ"
+    },
+    {
+        "id": "hiragana-087",
+        "type": "hiragana",
+        "english": "mya",
+        "japanese": "みゃ"
+    },
+    {
+        "id": "hiragana-088",
+        "type": "hiragana",
+        "english": "myu",
+        "japanese": "みゅ"
+    },
+    {
+        "id": "hiragana-089",
+        "type": "hiragana",
+        "english": "myo",
+        "japanese": "みょ"
+    },
+    {
+        "id": "hiragana-090",
+        "type": "hiragana",
+        "english": "rya",
+        "japanese": "りゃ"
+    },
+    {
+        "id": "hiragana-091",
+        "type": "hiragana",
+        "english": "ryu",
+        "japanese": "りゅ"
+    },
+    {
+        "id": "hiragana-092",
+        "type": "hiragana",
+        "english": "ryo",
+        "japanese": "りょ"
+    },
+    {
+        "id": "hiragana-093",
+        "type": "hiragana",
+        "english": "gya",
+        "japanese": "ぎゃ"
+    },
+    {
+        "id": "hiragana-094",
+        "type": "hiragana",
+        "english": "gyu",
+        "japanese": "ぎゅ"
+    },
+    {
+        "id": "hiragana-095",
+        "type": "hiragana",
+        "english": "gyo",
+        "japanese": "ぎょ"
+    },
+    {
+        "id": "hiragana-096",
+        "type": "hiragana",
+        "english": "ja",
+        "japanese": "じゃ"
+    },
+    {
+        "id": "hiragana-097",
+        "type": "hiragana",
+        "english": "ju",
+        "japanese": "じゅ"
+    },
+    {
+        "id": "hiragana-098",
+        "type": "hiragana",
+        "english": "jo",
+        "japanese": "じょ"
+    },
+    {
+        "id": "hiragana-099",
+        "type": "hiragana",
+        "english": "ja",
+        "japanese": "ぢゃ"
+    },
+    {
+        "id": "hiragana-100",
+        "type": "hiragana",
+        "english": "ju",
+        "japanese": "ぢゅ"
+    },
+    {
+        "id": "hiragana-101",
+        "type": "hiragana",
+        "english": "jo",
+        "japanese": "ぢょ"
+    },
+    {
+        "id": "hiragana-102",
+        "type": "hiragana",
+        "english": "bya",
+        "japanese": "びゃ"
+    },
+    {
+        "id": "hiragana-103",
+        "type": "hiragana",
+        "english": "byu",
+        "japanese": "びゅ"
+    },
+    {
+        "id": "hiragana-104",
+        "type": "hiragana",
+        "english": "byo",
+        "japanese": "びょ"
+    },
+    {
+        "id": "hiragana-0105",
+        "type": "hiragana",
+        "english": "pya",
+        "japanese": "ぴゃ"
+    },
+    {
+        "id": "hiragana-106",
+        "type": "hiragana",
+        "english": "pyu",
+        "japanese": "ぴゅ"
+    },
+    {
+        "id": "hiragana-107",
+        "type": "hiragana",
+        "english": "pyo",
+        "japanese": "ぴょ"
+    }
+]
